@@ -1,0 +1,26 @@
+IRLED - emits light 
+        it will reflect after obstruction
+
+Photodiod - 
+        receiver 
+        opposite of LED
+  
+		==========================
+		=                        =
+		=                        ===== 
+		=                        =   =   LED
+		=                        =====
+		=                        = 
+		=    --------            =====
+ 		=    - C M  -            =   =   PHOTO Diode
+		=    --------            =====
+		=                        =
+		==========================
+		
+		pinMode(<pin>,OUTPUT);
+		pinMoode(<pin>,INPUT);
+		
+		
+		a=digitalRead(<pin>);
+		
+		digitalWrite(<val>);
